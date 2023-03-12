@@ -5,9 +5,10 @@
     <parent>
         <artifactId>xuecheng-plus-parent</artifactId>
         <groupId>com.xuecheng</groupId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>1.0-SNAPSHOT</version>
         <relativePath>../xuecheng-plus-parent</relativePath>
     </parent>
+
     <artifactId>xuecheng-plus-base</artifactId>
     <name>xuecheng-plus-base</name>
     <description>xuecheng-plus-base</description>
