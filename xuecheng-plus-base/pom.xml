@@ -2,6 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+
     <parent>
         <artifactId>xuecheng-plus-parent</artifactId>
         <groupId>com.xuecheng</groupId>
@@ -9,6 +10,10 @@
         <relativePath>../xuecheng-plus-parent</relativePath>
     </parent>
 
+    <!-- 基础工程
+    1.提供基础类库
+    2.提供工具类库
+    -->
     <artifactId>xuecheng-plus-base</artifactId>
     <name>xuecheng-plus-base</name>
     <description>xuecheng-plus-base</description>
@@ -93,6 +98,10 @@
         <dependency>
             <groupId>com.fasterxml.jackson.datatype</groupId>
             <artifactId>jackson-datatype-jsr310</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
         </dependency>
     </dependencies>
 </project>
