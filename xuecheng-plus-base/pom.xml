@@ -15,8 +15,6 @@
     2.提供工具类库
     -->
     <artifactId>xuecheng-plus-base</artifactId>
-    <name>xuecheng-plus-base</name>
-    <description>xuecheng-plus-base</description>
 
     <dependencies>
         <dependency>

@@ -1,12 +1,11 @@
 package com.xuecheng.content.model.po;
 
+import java.time.LocalDateTime;
 import com.baomidou.mybatisplus.annotation.FieldFill;
 import com.baomidou.mybatisplus.annotation.TableField;
-import com.baomidou.mybatisplus.annotation.TableName;
-import lombok.Data;
-
 import java.io.Serializable;
-import java.time.LocalDateTime;
+import lombok.Data;
+import com.baomidou.mybatisplus.annotation.TableName;
 
 /**
  * <p>

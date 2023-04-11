@@ -25,9 +25,6 @@
         <module>xuecheng-plus-content-api</module>
         <module>xuecheng-plus-content-model</module>
         <module>xuecheng-plus-content-service</module>
-        <module>xuecheng-plus-content-model</module>
-        <module>xuecheng-plus-content-api</module>
-        <module>xuecheng-plus-content-service</module>
     </modules>
 
 </project>
