@@ -7,19 +7,11 @@
     <parent>
         <groupId>com.xuecheng</groupId>
         <artifactId>xuecheng-plus-parent</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>0.0.1-SNAPSHOT</version>
         <relativePath>../xuecheng-plus-parent</relativePath>
     </parent>
-
-
     <artifactId>xuecheng-plus-content</artifactId>
     <packaging>pom</packaging>
-
-    <properties>
-        <maven.compiler.source>8</maven.compiler.source>
-        <maven.compiler.target>8</maven.compiler.target>
-        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    </properties>
 
     <modules>
         <module>xuecheng-plus-content-api</module>
